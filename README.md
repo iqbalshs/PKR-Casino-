@@ -1,4 +1,3 @@
-# PKR-Casino-
 # code (1).py
 from reports import get_total_deposits, get_most_popular_game, get_new_users, get_user_activity
 from flask import Flask, render_template, request, redirect, url_for, flash, session, jsonify
